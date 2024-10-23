@@ -1,0 +1,4 @@
+flask
+flask-ngrok
+transformers
+torch  # Necesario para PyTorch, ya que GPT-2 usa esta biblioteca
